@@ -1,2 +1,7 @@
 Python project test 101 Diego/Elmir
+<<<<<<< HEAD
 Hello World
+=======
+
+THIS IS ME, DIEGO 
+>>>>>>> 1d34064670f23849ae7c6a0cc21ec9227369f018
